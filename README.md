@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Ghodawalaaman
-- 👀 I’m interested in competitive programming
-- 🌱 I’m currently learning C/C++ language
+- 👋 Hi, I’m @Ghodawalaaman.
+- 🌱 I’m currently learning java and Android development.
 - 📫 How to reach me my email: ghodawalaaman@gmail.com
 
 <!---
