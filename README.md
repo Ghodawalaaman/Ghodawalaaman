@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Ghodawalaaman.
-- 🌱 I’m currently learning java and Android development.
 - 📫 How to reach me my email: ghodawalaaman@gmail.com
 
 <!---
